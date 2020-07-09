@@ -19,6 +19,10 @@ body{
 	text-align: center;
 }
 
+.back-image
+{
+	background-image: url({{ url_for('static', filename='stadium.jpg') }})
+}
 .container-heading{
     margin: 0;
 }
