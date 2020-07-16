@@ -9,4 +9,5 @@ A complete end to end machine learning web app which predicts first inning score
 
 **Snapshots:-** 
 ![sample1](https://user-images.githubusercontent.com/48492223/87636954-284a4d00-c75f-11ea-94fe-6e1574884600.PNG)
+![sample3](https://user-images.githubusercontent.com/48492223/87673911-df13f080-c792-11ea-9e1f-382136b89719.PNG)
 ![sample2](https://user-images.githubusercontent.com/48492223/87670109-d1f40300-c78c-11ea-9f9a-ada9dece10f3.PNG)
