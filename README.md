@@ -1,5 +1,8 @@
 # IPL-First-Innings-Score-Prediction
 
+A complete end to end machine learning web app which predicts first inning score basis on the different user input. 
+
+
 
 
 **App Link :-** [https://ipl-first-innings-prediction.herokuapp.com/predict](url)
